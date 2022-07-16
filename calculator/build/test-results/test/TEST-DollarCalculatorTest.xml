@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DollarCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-15T05:50:05" hostname="DESKTOP-A1TLU89" time="0.899">
+  <properties/>
+  <testcase name="dollarTest()" classname="DollarCalculatorTest" time="0.888"/>
+  <testcase name="testHello()" classname="DollarCalculatorTest" time="0.003"/>
+  <testcase name="mockTest()" classname="DollarCalculatorTest" time="0.006"/>
+  <system-out><![CDATA[hello JUnit
+22000
+test hello
+60000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
